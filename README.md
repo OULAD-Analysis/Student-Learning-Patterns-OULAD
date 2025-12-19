@@ -98,8 +98,7 @@ MIT License
 
 ## Contact
 
-For questions or issues, contact: Ilayaraja Rajmohan (irajmoh1@binghamton.edu)
+For questions or issues, contact: Ilayaraj Rajmohan (irajmohan@binghamton.edu)
 
 ---
 
-*Binghamton University Department of Computer Science - Fall 2024*
