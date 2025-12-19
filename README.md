@@ -2,6 +2,13 @@
 
 A machine learning project that predicts student outcomes and analyzes learning behaviors using the Open University Learning Analytics Dataset (OULAD).
 
+## Contributors
+
+- Ilayaraj Rajmohan 
+- Sanjitha Praveen 
+- Rishika Shivanna 
+- Sai Tharun Gonuguntla 
+
 ## Project Description
 
 This project addresses two primary objectives using machine learning and data mining techniques:
